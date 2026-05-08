@@ -1,4 +1,4 @@
-# Final Project - Oprec NETICS Laboratory 2026
+# Final Project - Oprec NETICS 2026
 
 | Nama           | NRP        |
 | ---            | ---        |
